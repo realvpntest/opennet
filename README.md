@@ -28,5 +28,8 @@
 
 这里仅保留最简洁的入口，更多详细内容请查看：
 
+## 使用小技巧
+最近 GFW 动作不断,如果你的节点都不能使用了,请重新导入订阅链接,更新订阅,一般都能恢复使用.如果还是不行就联系机场客服协助处理.
+
 👉 推荐使用镜像站查看测速图与完整内容：  
 🔗[https://gptvpnhelper.com/airport-access/](https://gptvpnhelper.com/airport-access/)

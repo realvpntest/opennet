@@ -7,15 +7,17 @@
 
 | 机场 | 优惠力度 | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
 | --- |---------|----------| --- | -------- | --- |
-| TNTCloud | 双11 8 折（30元季付小包除外） | 2025-11-30 | `Crazy1111` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
-| 小蜜蜂机场 | 双11 8 折（96元年付小包除外） | 2025-11-30 | `11118` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
-| 青云梯 | 双11 8 折（96元活动年付小包除外） | 2025-11-11 | `10180` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
-| 银河云 | 双11 8 折（98元年付小包除外） | 2025-11-30 | `1180` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
+| TNTCloud | 本站独家长期 8 折；30 元季付小包/福利款不参与 | 长期 | `Tnt80` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
+| 小蜜蜂机场 | 专属长期 8 折；¥96 年付福利小包不参与 | 长期 | `TVX8JfZP` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
+| 青云梯 | 年付及以上 8 折（`80`）；月/季/半年付 85 折（`85`）；青云·诀 ¥96/年福利款除外 | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
+| 银河云 | 年付及以上 8 折；短周期 85 折；¥98 年付轻量包不参与 | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
 | 百变小樱 | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
-| 贝贝云 | 95 折（新手福利） | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://beibeilink.top/register?code=Oa86Fbs3) |
-| WgetCloud | 新用户 85 折 | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
+| 贝贝云 | 全场 95 折，新手福利 | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://beibeilink.top/register?code=Oa86Fbs3) |
+| WgetCloud | 新用户首单自动 85 折 | 长期 | 注册即得 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
 
 \* 以官方公告为准，如活动调整请以官网提示为准。
+
+> ⚠️ 请务必使用表格中的优惠码或专属链接，机场官网临时码可能随时过期，本站提供的均为长期可用的固定折扣。
 
 ## 快速选择
 

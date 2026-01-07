@@ -1,37 +1,55 @@
-# 🌐 opennet：机场推荐（专注 AI 与流媒体）
+# 🚀 机场推荐｜科学上网 / 梯子（专注 AI 工具与流媒体）
 
-这里是精简版入口，只保留长期自用、适合 ChatGPT / Claude / Copilot 等 AI 工具以及 YouTube / Netflix 等流媒体的少数几家稳定机场，帮助你快速做选择。
+📅 **内容最后更新：2026年01月07日**
 
+想稳定使用 **ChatGPT / Claude / GitHub Copilot** 等 AI 工具，同时流畅观看 **YouTube / Netflix**？这里给出一份「短而够用」的 **机场推荐** 清单：只保留 4 家更适合日常办公与流媒体的选择，直接照着选即可。
 
-## 🔝 快速注册入口
+本项目重点关注：
+- 🤖 **AI 友好度**：IP 质量、风控触发概率、对话/开发/调用服务的稳定性
+- 🎬 **流媒体解锁**：地区解锁能力与晚高峰播放体验
+- ⚡ **线路与稳定性**：IEPL/IPLC 等专线体系与日常可用性
+- 🛠 **客户端适配**：Clash / Shadowrocket / Surge / V2Ray 等订阅导入体验
+
+## ✅ 30 秒直接选（先决策再下单）
+
+| 你的主要需求 | 优先选 | 一句话原因 |
+|---|---|---|
+| 🤖 AI 工具重度（ChatGPT/Claude/Copilot） | **TNTCloud** | 专线 + 更注重 IP 质量，适合长期主力 |
+| 🎬 流媒体 + 性价比主力 | **小蜜蜂机场** | IEPL 专线覆盖，综合体验均衡 |
+| 🧠 稳定与分流（老牌、适合常用） | **青云梯机场** | 分流策略成熟，长期口碑更稳 |
+| 💰 预算优先（想要专线但更省） | **银河云机场** | 价格友好，适合作为主力/备用 |
+
+## 🔝 快速入口（TNTCloud 优先推荐）
 
 | 机场 | 核心优势 | 优惠力度 | 截止日期 | 优惠码 | 过境线路 | 快捷跳转 |
-| --- | --- |---------|----------| --- | -------- | --- |
-| TNTCloud | 全 IPLC 专线 + 原生 IP，AI 解锁顶级 | 专属长期 8 折（30元季付小包除外） | 长期 | `Tnt80` | 全节点 IPLC 专线 | [立即注册](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89) |
-| 小蜜蜂机场 | 全 IEPL 性价比王，AI/流媒体全解锁 | 专属长期 8 折（¥96 年付小包除外） | 长期 | `TVX8JfZP` | 全节点 IEPL 专线 | [立即注册](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A) |
-| 青云梯 | 六年老牌，智能分流稳定 | 年付及以上 8 折 / 其他 85 折（青云·诀 ¥96/年福利款除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | 企业级 IPLC 专线 | [立即注册](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY) |
-| 银河云 | 低价专线，预算党首选主力 | 长期 8 折 / 85 折（¥98 福利年付除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7) |
-| 百变小樱 | 3 天免费试用，新手应急必备 | 3 天免费 + 95 折 | 长期 | `bbxy-5th` | 三网 IEPL 专线 | [立即注册](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) |
-| 贝贝云 | 低门槛入门，日常稳连 | 95 折（新手福利） | 长期 | `beibei.cloud` | 江苏隧道中转线路 | [立即注册](https://beibeilink.top/register?code=Oa86Fbs3) |
-| WgetCloud | 企业级 99.9% 在线率，重度/团队优选 | 新用户 85 折 | 长期 | 注册赠送 85 折券 | BGP 中转 + IEPL 专线 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) |
+| --- | --- | --- | --- | --- | --- | --- |
+| **TNTCloud** | 全 IPLC 专线 + 原生 IP，AI 解锁顶级 | 长期 8 折（30元季付小包除外） | 长期 | `Tnt80` | 全节点 IPLC 专线 | [立即注册][tnt] |
+| 小蜜蜂机场 | 全 IEPL 性价比王，AI/流媒体全解锁 | 长期 8 折（¥96 年付小包除外） | 长期 | `TVX8JfZP` | 全节点 IEPL 专线 | [立即注册][xmf] |
+| 青云梯机场 | 六年老牌，智能分流稳定 | 年付及以上 8 折 / 其他 85 折（青云·诀 ¥96/年福利款除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | 企业级 IPLC 专线 | [立即注册][qyt] |
+| 银河云机场 | 低价专线，预算党首选主力 | 长期 8 折 / 85 折（¥98 福利年付除外） | 长期 | `gptvpnhelper80` / `gptvpnhelper85` | Trojan + IEPL 专线 | [立即注册][galaxy] |
 
-\* 以官方公告为准，如活动调整请以官网提示为准。
+\* 优惠与套餐以官网结算页为准，活动可能随时调整。
 
-> ⚠️ 请务必使用表格中的优惠码或专属链接，机场官网临时码可能随时过期，本站提供的均为长期可用的固定折扣。
+✅ **下单拿折扣 3 步（建议照做）**  
+1）点击表格「立即注册」进入官网；2）选择套餐；3）结算页输入对应优惠码（不输入通常不会自动打折）。
 
-## 快速选择
+## ⚡ 场景化选择建议
 
-- 🆓 完全打不开外网时：先用 [百变小樱 3 天免费试用](https://bbxy.xn--cesw6hd3s99f.com/auth/register?code=FFHk) 恢复基础访问能力。
-- 🤖 以 AI 办公为主（ChatGPT / Copilot / Claude Code 等）：优先考虑 [小蜜蜂机场](https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A)、[TNTCloud](https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89)、[青云梯](https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY)。
-- 🎬 流媒体和家庭观影：关注 [银河云](https://inv03.galaxyaff.cc/register?aff=tcOd0ob7)、[WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=xEgJKS) 的解锁能力。
-- 💰 低频/备用线路：预算有限时可以用 [贝贝云](https://beibeilink.top/register?code=Oa86Fbs3) 作为备用节点。
+- **只想一次买到位（主力办公 + AI + 流媒体）**：优先上 **TNTCloud**。
+- **更在意性价比（日常够用、覆盖全面）**：选 **小蜜蜂机场**。
+- **更在意稳定与分流（长期使用、少折腾）**：选 **青云梯机场**。
+- **预算更紧但仍想要专线体验**：选 **银河云机场**。
 
-## 查看完整测速与详细评测
+## 🛠 使用小技巧（Clash 订阅常见问题）
 
-这里仅保留最简洁的入口，更多详细内容请查看：
-
-## 使用小技巧
-最近 GFW 动作不断,如果你的节点都不能使用了,请重新导入订阅链接,更新订阅,一般都能恢复使用.如果还是不行就联系机场客服协助处理.
+最近网络波动时，如果出现「节点都不可用/突然连不上」：
+1) 先在客户端里 **更新订阅/重新导入订阅链接**；2) 仍不行再联系机场客服协助排查。
 
 👉 推荐使用镜像站查看测速图与完整内容：  
-🔗[https://gptvpnhelper.com/airport-access/](https://gptvpnhelper.com/airport-access/)
+🔗 [https://gptvpnhelper.com/airport-access/][mirror]
+
+[tnt]: https://tanu095.tntvipaff.cc/#/register?code=7MPbfr89
+[xmf]: https://tangwu095.xmfvipaff01.cc/register?aff=oClLBb5A
+[qyt]: https://realvtest.qytvipaff.cc/register?aff=zcIlh0VY
+[galaxy]: https://inv03.galaxyaff.cc/register?aff=tcOd0ob7
+[mirror]: https://gptvpnhelper.com/airport-access/
